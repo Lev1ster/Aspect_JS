@@ -1,6 +1,6 @@
 # Aspect_JS
 
-Реляционная СУБД Postgres\MS SQL\MY SQL с таблицами table1, table2. table3.
+Реляционная СУБД Postgres\MS SQL\My SQL с таблицами table1, table2. table3.
 В каждой таблице есть поля id, name, description. Тип - строка
 
 # Задание
